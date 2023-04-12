@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 
 ### - Hobbies : 
 - ✨ Gaming Addict
-- ✨ Watching Anime
+- ✨ Watching Anime, Hentai, Dorama :v
 - ✨ Reading Mangga, Manhwa Doujin :D
 
 </br>
