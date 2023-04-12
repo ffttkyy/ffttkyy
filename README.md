@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **ffttkyy/ffttkyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -93,7 +91,7 @@ If you want to reach out to me about anything, be it some doubt or just to hango
   <img align="left" alt=" Reddit" width="130" hight="100" src="https://github.com/ffttkyy/ffttkyy/blob/b62f51409f525ff86eaa6620b9cb04f6add5d1bf/assets/Icons/reddit.png" />
 </a>
 <a href="https://t.me/Pffttky">
-  <img align="left" alt="Telegram" width="130" hight="100" src="" />
+  <img align="left" alt="Telegram" width="130" hight="100" src="https://github.com/ffttkyy/ffttkyy/blob/45ff885f582db0fb456a17f075d31a7013191cfb/assets/Icons/telegram.png" />
 </a>
 <a href="https://steamcommunity.com/">
   <img align="left" alt="Steam" width="130" hight="100" src="https://github.com/ffttkyy/ffttkyy/blob/62cededb23e2327e3fa2f9201fc42bf5615e9286/assets/Icons/steam.png" />
