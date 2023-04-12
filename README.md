@@ -53,15 +53,15 @@ Here are some ideas to get you started:
 <p align="center">
 
 <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
-<img src="https://github.com/ffttkyy/ffttkyy/blob/master/assets/icons/python.png" alt="python" width="120" hight="50">
+<img src="https://github.com/ffttkyy/ffttkyy/blob/62cededb23e2327e3fa2f9201fc42bf5615e9286/assets/Icons/python.png" alt="python" width="120" hight="50">
 <img src="https://github.com/ffttkyy/ffttkyy/blob/b62f51409f525ff86eaa6620b9cb04f6add5d1bf/assets/Icons/java.png" alt="java"  width="100" hight="50">
 <img src="https://github.com/ffttkyy/ffttkyy/blob/b62f51409f525ff86eaa6620b9cb04f6add5d1bf/assets/Icons/ai.png" alt="AI" width="90" hight="50">
-<img src="https://github.com/ffttkyy/ffttkyy/blob/master/assets/icons/datascience.png" alt="datascience" width="180" hight="50">
+<img src="https://github.com/ffttkyy/ffttkyy/blob/62cededb23e2327e3fa2f9201fc42bf5615e9286/assets/Icons/datascience.png" alt="datascience" width="180" hight="50">
 </br>
-<img src="https://github.com/ffttkyy/ffttkyy/blob/master/assets/icons/visualstudio_code.png" alt="visualstudio_code" width="240" hight="50">
+<img src="https://github.com/ffttkyy/ffttkyy/blob/62cededb23e2327e3fa2f9201fc42bf5615e9286/assets/Icons/visualstudio_code.png" alt="visualstudio_code" width="240" hight="50">
 </br>
 <img src="https://github.com/ffttkyy/ffttkyy/blob/b62f51409f525ff86eaa6620b9cb04f6add5d1bf/assets/Icons/pc.png" alt="pc" width="100" hight="50">
-<img src="https://github.com/ffttkyy/ffttkyy/blob/master/assets/icons/playstation@3x.png" alt="playstation" width="150" hight="50">
+<img src="https://github.com/ffttkyy/ffttkyy/blob/62cededb23e2327e3fa2f9201fc42bf5615e9286/assets/Icons/playstation@3x.png" alt="playstation" width="150" hight="50">
 </p>
 </br>
 </br>
@@ -84,7 +84,7 @@ If you want to reach out to me about anything, be it some doubt or just to hango
  <img align="left" alt="Gmail" width="130" hight="100" src="https://github.com/ffttkyy/ffttkyy/blob/b62f51409f525ff86eaa6620b9cb04f6add5d1bf/assets/Icons/gmail.png" />
 </a>
 <a href="https://www.linkedin.com">
-  <img align="left" alt="Linkedin" width="150" hight="100" src="" />
+  <img align="left" alt="Linkedin" width="150" hight="100" src="https://github.com/ffttkyy/ffttkyy/blob/62cededb23e2327e3fa2f9201fc42bf5615e9286/assets/Icons/linkedin.png" />
 </br>
 </br>
 </br>
@@ -93,10 +93,10 @@ If you want to reach out to me about anything, be it some doubt or just to hango
   <img align="left" alt=" Reddit" width="130" hight="100" src="https://github.com/ffttkyy/ffttkyy/blob/b62f51409f525ff86eaa6620b9cb04f6add5d1bf/assets/Icons/reddit.png" />
 </a>
 <a href="https://t.me/Pffttky">
-  <img align="left" alt="Telegram" width="130" hight="100" src="https://github.com/ffttkyy/ffttkyy/blob/master/assets/icons/telegram.png" />
+  <img align="left" alt="Telegram" width="130" hight="100" src="" />
 </a>
 <a href="https://steamcommunity.com/">
-  <img align="left" alt="Steam" width="130" hight="100" src="https://github.com/ffttkyy/ffttkyy/blob/master/assets/icons/steam.png" />
+  <img align="left" alt="Steam" width="130" hight="100" src="https://github.com/ffttkyy/ffttkyy/blob/62cededb23e2327e3fa2f9201fc42bf5615e9286/assets/Icons/steam.png" />
 </a>
  </p>
  
