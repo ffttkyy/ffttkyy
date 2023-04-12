@@ -113,6 +113,6 @@ If you want to reach out to me about anything, be it some doubt or just to hango
 
 # sankyu
  
-<img hight="400" width="500" alt="JPG" align="right" src="https://github.com/ffttkyy/ffttkyy/blob/master/assets/klee.gif">
+<img hight="400" width="500" alt="GIF" align="right" src="https://github.com/ffttkyy/ffttkyy/blob/c6bcedd570b67a69b3d32717b261fb8154801e60/assets/klee.gif">
 
 *************
