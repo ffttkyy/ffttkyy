@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 # About ME 💬 :
 
-### - I'm 20 years  old Machine Learning & Artificial Intelligence Enthusiast from India.
+### - I'm 20 years  old Machine Learning & Artificial Intelligence Enthusiast from konoha.
 
 <img hight="400" width="500" alt="GIF" align="right" src="https://github.com/ffttkyy/ffttkyy/blob/639b076b669bb33f991fd2b8a117da94678d3250/assets/1936.gif">
 
