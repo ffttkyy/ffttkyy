@@ -81,7 +81,7 @@ If you want to reach out to me about anything, be it some doubt or just to hango
 <a href="https://www.gmail.com">
  <img align="left" alt="Gmail" width="130" hight="100" src="https://github.com/ffttkyy/ffttkyy/blob/b62f51409f525ff86eaa6620b9cb04f6add5d1bf/assets/Icons/gmail.png" />
 </a>
-<a href="https://www.linkedin.com">
+<a href="https://www.linkedin.com/in/rizky-wantoro-8551a4282/">
   <img align="left" alt="Linkedin" width="150" hight="100" src="https://github.com/ffttkyy/ffttkyy/blob/62cededb23e2327e3fa2f9201fc42bf5615e9286/assets/Icons/linkedin.png" />
 </br>
 </br>
